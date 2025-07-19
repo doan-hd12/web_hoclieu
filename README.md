@@ -11,7 +11,7 @@
     * Phân loại tài liệu theo danh mục, chuyên ngành, hoặc môn học để dễ dàng tìm kiếm.
     * Xem thông tin chi tiết về tài liệu.
 * **Hệ thống người dùng:**
-    * Đăng ký và Đăng nhập tài khoản an toàn, reset passwork.
+    * Phân quyền đăng nhập;Đăng ký/Đăng nhập tài khoản an toàn, reset passwork.
     * Quản lý, cập nhật thông tin cá nhân.
     * Chức năng bình luận trên các tài liệu.
 * **Tìm kiếm & Lọc:**
