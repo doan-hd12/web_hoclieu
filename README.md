@@ -90,9 +90,8 @@
 
 ##  Tác giả
 
-* **Hoàng Duy Đoàn**
     * GitHub: [https://github.com/doan-hd12](https://github.com/doan-hd12)
-    * Email: doanhoang0304@gmail.com
+    * Email: doan.hd1210@gmail.com
 
 ##  Giấy phép
 
