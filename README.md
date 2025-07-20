@@ -86,6 +86,17 @@
 8.  **Truy cập ứng dụng:**
     Mở trình duyệt và truy cập vào địa chỉ: `http://127.0.0.1:8000`
 
+9. Một số hình ảnh
+<img width="1914" height="959" alt="image" src="https://github.com/user-attachments/assets/2e1d0024-cedb-4456-8456-1dd3d7065ab4" />
+<img width="1895" height="901" alt="image" src="https://github.com/user-attachments/assets/7c54c01b-7ce0-46ea-8aec-f9517f480f0d" />
+<img width="967" height="916" alt="image" src="https://github.com/user-attachments/assets/b350920a-d7e5-4816-801f-8c0a1460b23c" />
+<img width="1902" height="964" alt="image" src="https://github.com/user-attachments/assets/6687c082-739c-466a-a913-d922b0097354" />
+<img width="1910" height="965" alt="image" src="https://github.com/user-attachments/assets/b3131b43-0a5d-4401-9851-c8a5b67ab7c2" />
+<img width="665" height="835" alt="image" src="https://github.com/user-attachments/assets/df2d462b-3d8d-42ea-9a6c-f5221272cf03" />
+<img width="1918" height="975" alt="image" src="https://github.com/user-attachments/assets/b96eabd3-99a0-4b6d-bd85-0ec595909fbc" />
+<img width="1916" height="971" alt="image" src="https://github.com/user-attachments/assets/7951df10-553f-48f2-bb44-8090602a7129" />
+<img width="1915" height="976" alt="image" src="https://github.com/user-attachments/assets/2fda2b1c-3355-48f7-abd5-b11cda7adb75" />
+<img width="1913" height="971" alt="image" src="https://github.com/user-attachments/assets/db8998c7-783a-4bc5-858c-65ccde92e082" />
 
 
 ##  Tác giả
