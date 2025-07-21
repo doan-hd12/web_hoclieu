@@ -35,9 +35,7 @@ Route::middleware(['auth'])->group(function () {
 require __DIR__.'/auth.php';
 
 
-// ============================
-// 📂 Tài liệu (Document)
-// ============================
+// Document
 Route::middleware(['auth', 'check.blocked'])->group(function () {
     Route::get('/documents/create', [DocumentController::class, 'create'])->name('documents.create');
     Route::post('/documents/store', [DocumentController::class, 'store'])->name('documents.store');
@@ -52,9 +50,8 @@ Route::get('/documents/show/{id}', [DocumentController::class, 'show'])->name('d
 Route::get('/documents/detail/{id}', [DocumentController::class, 'detail'])->name('documents.detail');
 Route::get('/tai-lieu/xem-truoc/{id}', [DocumentController::class, 'preview'])->name('documents.preview');
 
-// ============================
-// 👤 Tài khoản người dùng
-// ============================
+
+//  user info
 Route::middleware(['auth'])->group(function () {
     Route::get('/accountpanel', [AccountController::class, 'accountpanel'])->name('account');
     Route::post('/saveaccountinfo', [AccountController::class, 'saveaccountinfo'])->name('saveinfo');
@@ -62,9 +59,7 @@ Route::middleware(['auth'])->group(function () {
     Route::post('/change-password', [AccountController::class, 'changePassword'])->name('password.update');
 });
 
-// ============================
-// 🛠️ Quản trị viên (Admin)
-// ============================
+// (Admin)
 Route::middleware(['auth', 'admin'])->prefix('admin')->name('admin.')->group(function () {
     // Trang tổng quan admin
     Route::get('/dashboard', [AdminController::class, 'index'])->name('dashboard');
